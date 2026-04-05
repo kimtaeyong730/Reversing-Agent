@@ -1,0 +1,14 @@
+# Environment
+.env
+ 
+# Logs & solver outputs
+logs/
+ 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+ 
+# IDE
+.vscode/
+.idea/
