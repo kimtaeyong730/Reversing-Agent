@@ -127,24 +127,6 @@ logs/
 | Shared stack counter | 스택 프레임 공유 카운터 패턴 |
 | AES S-box cipher | 커스텀 AES S-box 기반 암호화 |
 
-## 풀이 실적
-
-DreamHack 리버싱 문제 기준 테스트 결과:
-
-```
-chall2    ✓  Comp4re_the_arr4y
-chall3    ✓  I_am_X0_xo_Xor_eXcit1ng
-chall4    ✓  Br1ll1ant_bit_dr1bble_<<_>>
-chall5    ✓  All_l1fe_3nds_w1th_NULL
-chall6    ✓  Replac3_the_w0rld
-chall7    ✓  Roll_the_left!_Roll_the_right!
-chall8    ✓  Did_y0u_brute_force?
-chall9    ✓  Reverse__your__brain_;)
-chall     ✓  DH{B4s3PlusF1nd}
-collect_me ✓  DH{14d2f0c62de3cf038b52f9f60755af2b}
-prob      ✓  flag{reverse_engineering_challenge}
-simple_crack_me_2 ✓  9ce745c0d5faaf29b7aecd1a4a72bc86
-stop_before_stops ✓  stop_before_it_stops_you
 ```
 
 ## 아키텍처 설계 원칙
